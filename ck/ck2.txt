@@ -1,0 +1,56 @@
+{
+    "urls": [
+    {"url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/ck/101.txt","name":"H🔔豆瓣1"},
+       {"url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/ck/102.txt","name":"H🔔豆瓣2"},
+       {"url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/ck/103.txt","name":"H🔔豆瓣3"}, 
+       {"url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/ck/104.txt","name": "H🔔bilibili集合"},
+
+
+{"url":"http://www.dmtv.ml/mao/single.json","name":"🔔黄瓜"},
+{"url":"https://agit.ai/hu/hcr/raw/commit/133d3bc995d54288b45e3ec33936841d55193905/%e5%a4%a7%e5%a4%a7%e8%81%aa.txt","name":"🔔白菜"},
+{"url":"https://agit.ai/hu/hcr/raw/branch/master/py3.txt","name":"🔔猪蹄"},
+{"url":"https://raw.iqiq.io/liu673cn/box/main/m.json","name":"🔔大豆 "},
+
+{"url":"https://agit.ai/hu/hcr/raw/branch/master/haoh.txt","name":"🦊四大网盘大全集"},
+{"url":"https://agit.ai/hu/hcr/raw/commit/7412d685dc62f3a8996a0f0c7f8070d4395fe908/%e5%a4%a7%e8%81%aa%e6%98%8e.txt","name":"🌈N接口"},
+{"url":"https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json","name":"🍅小苹果"},
+{"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"⛵️XC接口"},
+{"url":"http://111.67.196.181/mtv/meow.txt","name":"🌇小太阳"},
+
+{"url":"https://download.kstore.space/download/2863/01.txt","name":"🔮潇洒"},
+{"url":"https://freed.yuanhsing.cf/TVBox/meowcf.json","name":"🎀元兴"},
+{"url":"http://000913.xyz/box/tv.json","name":"🍆源共享"},
+{"url":"https://raw.liucn.cc/box/m.json","name":"🦀刘刘"},
+{"url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json","name":"🖼甜蜜暴击"},
+
+{"url":"https://agit.ai/n/b/raw/branch/a/b/c.json","name":"🍧ABC接口"},
+{"url":"https://ju.binghe.ga/4.txt","name":"🍦冰河"},
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt","name":"🏝🌈私人影院"},
+{"url":"https://agit.ai/Jonwall/Box/raw/branch/a/T20.json","name":"🧞二刀"},
+{"url":"https://freed.yuanhsing.cf/TVBox/meowcf.json","name":"☂四刀"},
+
+{"url":"https://dxawi.github.io/0/0.json","name":"🚴🏻五刀"},
+{"url":"http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0","name":"🏓魔力宝贝"},
+{"url":"https://raw.iqiq.io/liu673cn/box/main/m.json","name":"🍉牛魔指王"},
+{"url":"http://maoyingshi.cc/tvbox/云星日记/bili.json","name":"🛎云星听歌"},
+{"url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name":"⛵️月光宝盒Box"},
+{"url": "https://agit.ai/n/b/raw/branch/a/b/c.json","name": "爪爪"},
+{"url": "https://download.kstore.space/download/2863/01.txt","name": "kstore"},
+{"url": "https://raw.liucn.cc/box/m.json","name": "😸六大师"},
+{"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json","name": "⛸真苹果"},
+{"url": "https://raw.fastgit.org/once678/looktv/main/tvbox8.json","name": "678"},
+{"url": "https://gitcode.net/kuukey/a/-/raw/master/0.json","name": "KUUKE线路"},
+{"url": "https://gitcode.net/ycfnxwl/TVBox/-/raw/main/tv1.json","name": "ycfnxwl"},
+{"url": "https://pastebin.com/raw/FSLJXZN5","name": "源享家"}, 
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt","name":"🦊人人影视"},
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视1.txt","name":"🐦人人影视1"},
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视2.txt","name":"🐍人人影视2"},
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视3.txt","name":"🦀人人影视3"},
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视4.txt","name":"🌳人人影视4"},
+
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视5.txt","name":"🍆人人影视5"},
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视6.txt","name":"🍇人人影视6"},
+{"url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视7.txt","name":"🥞人人影视7"}
+
+]
+}
