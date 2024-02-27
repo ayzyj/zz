@@ -1,3 +1,5 @@
+🇨🇳｜河南移动,#genre#
+
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8
@@ -1777,7 +1779,7 @@ CCTV12,http://117.40.212.162:8888/newlive/live/hls/14/live.m3u8
 CCTV14,http://117.40.212.162:8888/newlive/live/hls/16/live.m3u8
 
 
-🇨🇳｜魔百盒,#genre#
+🇨🇳｜M魔百盒,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228213/index.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228149/index.m3u8
