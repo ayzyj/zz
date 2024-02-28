@@ -11,9 +11,9 @@
 {"name":"玉玉直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/dy.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"儿童直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/xh.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"小马直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/he.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"饭太硬直播","url":"http://git.1473.cn/zyj/zz/raw/main/fty.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"}
+{"name":"饭太硬直播","url":"http://git.1473.cn/zyj/zz/raw/main/fty.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"国际频道","url":"http://www.uuneed.cn/zyj/zz/raw/main/zb/gjtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"}
 
 ]
-
 
 
