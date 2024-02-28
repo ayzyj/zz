@@ -1865,6 +1865,25 @@ CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228188/index.m3u8
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228237/index.m3u8
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
+
+CCTV4,http://101.75.215.31:8008/hls/4/index.m3u8
+CCTV4,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV4,http://222.189.51.62:8888/newlive/live/hls/4/live.m3u8
+CCTV4,http://58.19.38.233:8888/newlive/live/hls/5/live.m3u8
+CCTV4,https://epg.pw/stream/5ea26961bbc8690cbd372a194e8801249644123feab6354e1f2cdd2b8a0026ca.m3u8
+CCTV4,http://61.182.33.218:8000/hls/4/index.m3u8
+CCTV4,http://113.57.109.36:9901/tsfile/live/0004_1.m3u8
+CCTV4,http://58.248.84.148:8888/newlive/live/hls/5/live.m3u8
+CCTV4,http://36.96.38.246:8888/newlive/live/hls/5/live.m3u8
+CCTV4,http://39.65.192.247:4200/udp/239.253.254.187:8000
+CCTV4,http://221.2.146.228:8888/newlive/live/hls/5/live.m3u8
+CCTV4,http://222.188.68.38:8888/newlive/live/hls/5/live.m3u8
+CCTV4,https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
+CCTV4,http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
+CCTV4,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+CCTV4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228156/index.m3u8
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228307/index.m3u8
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228307/index.m3u8
@@ -2124,6 +2143,8 @@ CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLT
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
+CCTV4k超高清,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
+
 CCTV4K测试,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 CCTV4K测试,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221228153/index.m3u8
@@ -2583,6 +2604,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/4/224/3
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/4/224/3221228320/1.m3u8
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/1.m3u8
 CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/1.m3u8
+
 8KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228132/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/4/224/3221228242/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/4/224/3221228242/1.m3u8
@@ -2937,6 +2959,7 @@ CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
 CCTV4K超高清,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 CCTV4K超高清,http://159.75.85.63:8280/cctv4k.php
 CCTV4K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/1.m3u8
+CCTV4k超高清,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
