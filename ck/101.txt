@@ -1,7 +1,7 @@
 
 
 {
-    "spider": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/fty/jar/fm.jar",
+    "spider": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/fm.jar",
     "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
