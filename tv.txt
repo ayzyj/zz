@@ -1769,11 +1769,19 @@ CCTV14,http://117.40.212.162:8888/newlive/live/hls/16/live.m3u8
 
 🇨🇳｜CCTV8K,#genre#
 
+
+
+CCTV8K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 CCTV8K超高清,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
+CCTV4K超高清,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 
-CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
+北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+BTV纪实科教8K,http://159.75.85.63:6798
+
 河南4K试验,http://218.29.135.2:4000/udp/225.1.4.254:1300
 4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/4/224/3221228141/index.m3u8
