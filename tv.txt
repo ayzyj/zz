@@ -1780,8 +1780,6 @@ CCTV4K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m
 4K测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 河南4K试验,http://218.29.135.2:4000/udp/225.1.4.254:1300
 
-🇨🇳｜央视频,#genre#
-
 CCTV1,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 CCTV3,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
@@ -1845,7 +1843,6 @@ CCTV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001332/index
 CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-🇨🇳｜卫视超高清,#genre#
 
 江苏卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.64:1532
 浙江卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.63:1528
@@ -1893,7 +1890,6 @@ CCTV5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/inde
 湖北卫视超高清,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西卫视超高清,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001437/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-🇨🇳｜4K视频,#genre#
 
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 咪咕4K,http://39.134.66.110/PLTV/88888888/224/3221225655/index.m3u8
