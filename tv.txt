@@ -1767,9 +1767,11 @@ CCTV14,http://117.40.212.162:8888/newlive/live/hls/16/live.m3u8
 🇨🇳｜CCTV8K,#genre#
 
 
+🇨🇳｜4K超高清,#genre#
 CCTV8K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
 CCTV4K超高清,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV4K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
 CCTV4K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
@@ -1777,6 +1779,8 @@ CCTV4K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m
 4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4K测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 河南4K试验,http://218.29.135.2:4000/udp/225.1.4.254:1300
+
+🇨🇳｜央视频,#genre#
 
 CCTV1,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
@@ -1819,6 +1823,13 @@ CCTV17,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
 新疆卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
 海南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
 黑龙江卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
+CGTN西班牙,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022571703.m3u8
+CGTN阿拉伯,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574603.m3u8
+CGTN纪录片,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
+CGTN俄罗斯,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574803.m3u8
+CGTN法语,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903.m3u8
+CGTN,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
+CCTV16,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
 CCTV16,http://183.221.31.230:4088/udp/239.10.0.187:5140
 CCTV16,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV16,http://[2409:8087:7001:20:1000::96]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
@@ -1833,6 +1844,8 @@ CCTV1,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001331/index
 CCTV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+🇨🇳｜卫视超高清,#genre#
 
 江苏卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.64:1532
 浙江卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.63:1528
@@ -1879,6 +1892,9 @@ CCTV5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/inde
 安徽卫视超高清,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视超高清,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西卫视超高清,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001437/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+🇨🇳｜4K视频,#genre#
+
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 咪咕4K,http://39.134.66.110/PLTV/88888888/224/3221225655/index.m3u8
 咪咕4K,http://39.134.65.175/PLTV/88888888/224/3221225655/index.m3u8
@@ -1906,8 +1922,6 @@ LOVE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?blog.ntnas.top
 NASA 4K,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
 NHK BSP4K (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.com
 TRT 4K,http://tv-trtarabi.live.trt.com.tr/master.m3u8
-
-
 
 🇨🇳｜陕西移动,#genre#
 
