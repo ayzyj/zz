@@ -1,5 +1,5 @@
 [
-{"name":"CCTV8K直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/8K.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"CCTV8K直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/8k.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"本地直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/live.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"熊猫直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/mtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
 {"name":"多多直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/dd.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
