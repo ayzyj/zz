@@ -1,67 +1,12 @@
-🇨🇳｜8K超高清,#genre#
-CCTV8K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+8K超高清,#genre#
+
 CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
-CCTV4K超高清,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV4K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
-CCTV4K超高清,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4KUHD,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4K测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 河南4K试验,http://218.29.135.2:4000/udp/225.1.4.254:1300
-
-🇨🇳｜央视频,#genre#
-
-CCTV1,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
-CCTV2,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
-CCTV3,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
-CCTV4,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
-CCTV5,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
-CCTV5+,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
-CCTV6,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574301.m3u8
-CCTV7,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576203.m3u8
-CCTV8,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
-CCTV9,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576003.m3u8
-CCTV10,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573003.m3u8
-CCTV11,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
-CCTV12,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
-CCTV13,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
-CCTV14,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
-CCTV15,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
-CCTV16,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
-CCTV17,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
-北京卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
-东方卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-天津卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
-重庆卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
-辽宁卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
-山东卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
-安徽卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
-河南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
-河北卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
-湖北卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
-湖南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-江西卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-江苏卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-浙江卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-东南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
-广东卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-广西卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-深圳卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-贵州卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
-四川卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
-新疆卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
-海南卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
-黑龙江卫视,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-CGTN西班牙,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022571703.m3u8
-CGTN阿拉伯,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574603.m3u8
-CGTN纪录片,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
-CGTN俄罗斯,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574803.m3u8
-CGTN法语,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903.m3u8
-CGTN,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
-CCTV16,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575403.m3u8
-CCTV16,http://183.221.31.230:4088/udp/239.10.0.187:5140
 CCTV16,http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV16,http://[2409:8087:7001:20:1000::96]:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV16,http://nas.tuyuannet.cn:8800/rtp/239.37.1.22:5540
@@ -76,25 +21,7 @@ CCTV2,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001332/index
 CCTV4,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-🇨🇳｜卫视超高清,#genre#
-
-江苏卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.64:1532
-浙江卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.63:1528
-东方卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.73:1568
-深圳卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.71:1560
-北京卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.66:1540
-山东卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.69:1552
-天津卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.67:1544
-贵州卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.185:7980
-四川卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.175:7980
-黑龙江卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.70:1556
-安徽卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.65:1536
-湖北卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.72:1564
-东南卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.129:7980
-辽宁卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.68:1548
-湖南卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.62:1524
-广东卫视超高清,http://222.182.115.150:4022/rtp/235.254.196.204:1088
-河北卫视超高清,http://222.182.115.150:4022/rtp/235.254.198.184:798
+卫视超高清,#genre#
 北京卫视超高清,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视超高清,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视超高清,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -123,9 +50,6 @@ CCTV5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/inde
 安徽卫视超高清,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视超高清,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西卫视超高清,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001437/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-🇨🇳｜4K视频,#genre#
-
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 咪咕4K,http://39.134.66.110/PLTV/88888888/224/3221225655/index.m3u8
 咪咕4K,http://39.134.65.175/PLTV/88888888/224/3221225655/index.m3u8
@@ -137,15 +61,16 @@ CCTV5+,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001334/inde
 咪咕4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 咪咕4K-2,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 咪咕4K-2,http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
+
+4k影视,#genre#
+
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K,http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=3
-4K影视,http://117.9.171.16:8888/udp/225.1.2.190:5002
 爱自然 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=
 百事通4K,http://222.71.11.180:4022/udp/239.45.1.42:5140
-
 FASHION 4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
@@ -153,4 +78,3 @@ LOVE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?blog.ntnas.top
 NASA 4K,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
 NHK BSP4K (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.com
 TRT 4K,http://tv-trtarabi.live.trt.com.tr/master.m3u8
-
