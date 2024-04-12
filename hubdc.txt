@@ -1,0 +1,8 @@
+{
+"storeHouse": [
+{"sourceName":"u💚优选仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/ck/ck1.txt"},
+{"sourceName":"u💛公众仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/ck/ck2.txt"},
+{"sourceName":"u❤️聚合仓","sourceUrl":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/ck/ck3.txt"}
+
+]}
+
