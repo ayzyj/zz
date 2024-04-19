@@ -41,7 +41,7 @@
 
 
 {"key": "玩偶","name": "FA👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,
-"ext": {"aliToken": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/token.txt","quarkCookie": "http://www.uuneed.cn/zyj/zz/raw/main/quark.txt","from": "4k|auto|fhd",
+"ext": {"aliToken": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/token.txt","quarkCookie": "http://www.uuneed.cn/zyj/zz/raw/main/qk.txt","from": "4k|auto|fhd",
 "siteUrl": "https://api.wogg.xyz/","danMu": "关"}},
 {"key": "YiSo","name": "FB😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,
 "ext": {"aliToken": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/token.txt","from": "4k|auto|fhd"}},
@@ -52,7 +52,7 @@
 {"key": "PanSearch","name": "FE🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,
 "ext": {"aliToken": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/token.txt","from": "4k|auto|fhd"}},
 {"key": "push_agent","name": "FF🛴手机┃推送","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,
-"ext": {"aliToken": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/token.txt","quarkCookie": "http://www.uuneed.cn/zyj/zz/raw/main/quark.txt","from": "4k|auto|fhd"}},
+"ext": {"aliToken": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/token.txt","quarkCookie": "http://www.uuneed.cn/zyj/zz/raw/main/qk.txt","from": "4k|auto|fhd"}},
 
 
 {"key": "csp_KungFu404","name":"🅱️阿里签到","type":3, "api": "csp_KungFu404", "searchable":1,
