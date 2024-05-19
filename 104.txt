@@ -1,16 +1,17 @@
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/fm.jar",
+  "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
    "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/tv.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/tv.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
-  ],
+ 
+],
   "sites": [
    {
       "key": "自用",
@@ -20,7 +21,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/ziyong.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/ziyong.json"
     },
    
 	{
@@ -31,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/jingxuan1.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/jingxuan1.json"
     },{
       "key": "精选2",
       "name": "🅱️哔哩┃精选2",
@@ -40,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/jingxuan2.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/jingxuan2.json"
     },
 	{
       "key": "哔哩套餐1",
@@ -50,7 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩套餐.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩套餐.json"
     },{
       "key": "哔哩套餐2",
       "name": "🅱️哔哩┃套餐2",
@@ -59,7 +60,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩.json"
     },{
       "key": "哔哩套餐3",
       "name": "🅱️哔哩┃套餐3",
@@ -68,33 +69,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/老刘备bili.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/老刘备bili.json"
     },
-		{"key": "穿搭","name": "💃哔哩穿搭💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/穿搭.json"},
+		{"key": "穿搭","name": "💃哔哩穿搭💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/穿搭.json"},
 
 	
-	{"key": "小姐姐","name": "💃哔哩小姐姐💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩小姐姐.json"},
-{"key": "哔哩8K","name": "💃哔哩8K💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩8K.json"},
-{"key": "车模","name": "💃哔哩车模💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩车模.json"},
-{"key": "印度舞蹈","name": "🎗️印度舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/印度歌舞.txt"},
+	{"key": "小姐姐","name": "💃哔哩小姐姐💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩小姐姐.json"},
+{"key": "哔哩8K","name": "💃哔哩8K💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩8K.json"},
+{"key": "车模","name": "💃哔哩车模💃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩车模.json"},
+{"key": "印度舞蹈","name": "🎗️印度舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/印度歌舞.txt"},
 
-{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱舞蹈.json"},
-{"key": "解说","name": "⚽️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱影视解说.json"},
-{"key": "球类","name": "⚽️球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱球球.json"},
-{"key": "美食","name": " 🧡美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱美食.json"},
-{"key": "棋牌","name": " 💔棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱棋牌.json"},
-{"key": "UP主","name": " 🖤UP主机","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱UP主.json"},
-{"key": "演唱会自定义","name": "🌈演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱演唱会.json"},
-{"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱MTV.json"},
-{"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩PS.json"},
-{"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩外语.json"},
-{"key": "学堂","name": "🍉学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/学堂.json"},
-{"key": "EXCEL","name": "🌈Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱Excel教程.json"},
-{"key": "足球","name": "⚽️足球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱球星.json"},
-{"key": "Bili","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱哔哩.json"},
-{"key": "戏曲自定义","name": "📺哔哩戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱戏曲.json"},
-{"key": "新哔哩","name": "🎗️新哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/新哔哩.json"},
-{"key": "体育","name": "💋哔哩体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱体育.json"},
+{"key": "舞蹈","name": "🎗️哔哩舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱舞蹈.json"},
+{"key": "解说","name": "⚽️电影解说","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱影视解说.json"},
+{"key": "球类","name": "⚽️球球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱球球.json"},
+{"key": "美食","name": " 🧡美食合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱美食.json"},
+{"key": "棋牌","name": " 💔棋牌合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱棋牌.json"},
+{"key": "UP主","name": " 🖤UP主机","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱UP主.json"},
+{"key": "演唱会自定义","name": "🌈演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱演唱会.json"},
+{"key": "MV","name": "🌈哔哩MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱MTV.json"},
+{"key": "PS","name": "🎉PS教程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩PS.json"},
+{"key": "外语","name": "🏠外语学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/哔哩外语.json"},
+{"key": "学堂","name": "🍉学堂教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/学堂.json"},
+{"key": "EXCEL","name": "🌈Excel学堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱Excel教程.json"},
+{"key": "足球","name": "⚽️足球合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱球星.json"},
+{"key": "Bili","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱哔哩.json"},
+{"key": "戏曲自定义","name": "📺哔哩戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱戏曲.json"},
+{"key": "新哔哩","name": "🎗️新哔哩","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/新哔哩.json"},
+{"key": "体育","name": "💋哔哩体育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/吾爱体育.json"},
 	
     {
       "key": "学习园地",
@@ -104,7 +105,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/学习园地.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/学习园地.json"
     },
     {
       "key": "励志学习",
@@ -114,7 +115,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/励志学习.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/励志学习.json"
     },{
       "key": "名师课堂",
       "name": "🅱️哔哩┃名师课堂",
@@ -123,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/名师课堂.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/名师课堂.json"
     },
     {
       "key": "小学课堂",
@@ -133,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/小学课堂.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -143,7 +144,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/初中课堂.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/初中课堂.json"
     },
     {
       "key": "高中课堂",
@@ -153,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/高中课堂.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/高中课堂.json"
     },
     {
       "key": "软件教程",
@@ -163,7 +164,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/软件教程.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/软件教程.json"
     },{
       "key": "少儿教育",
       "name": "🅱️哔哩┃少儿教育",
@@ -172,7 +173,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/少儿教育.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/少儿教育.json"
     },{
       "key": "学堂教育",
       "name": "🅱️哔哩┃学堂教育",
@@ -181,7 +182,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/学堂.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/学堂.json"
     },{
       "key": "知识",
       "name": "🅱️哔哩┃知识",
@@ -190,7 +191,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/知识.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/知识.json"
     },{
       "key": "歌曲MV",
       "name": "🅱️哔哩┃歌曲MV",
@@ -199,7 +200,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/歌曲MV.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/歌曲MV.json"
     },{
       "key": "测评合集",
       "name": "🅱️哔哩┃测评合集",
@@ -208,7 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/测评.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/测评.json"
     },{
       "key": "体育",
       "name": "🅱️哔哩┃体育",
@@ -217,7 +218,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/体育.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/体育.json"
     },{
       "key": "电竞",
       "name": "🅱️哔哩┃电竞",
@@ -226,7 +227,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/电竞.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/电竞.json"
     },
     {
       "key": "儿童乐园",
@@ -236,7 +237,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/儿童乐园.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/儿童乐园.json"
     },
     {
       "key": "相声合集",
@@ -246,7 +247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/相声合集.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/相声合集.json"
     },
     {
       "key": "女团热舞",
@@ -256,7 +257,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/bili/女团热舞.json"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/bili/女团热舞.json"
     }
     
   ],

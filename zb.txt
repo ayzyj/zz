@@ -1,17 +1,17 @@
 [
-{"name":"CCTV8K直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/8k.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"本地直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/live.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"熊猫直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/mtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"多多直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/dd.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"小苹果直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/xpg.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"星河直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/xhtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"巧记直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/qjtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"一起看直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/yiqi.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"吾爱直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/wuai.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"玉玉直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/dy.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"儿童直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/xh.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"小马直播","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/he.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
-{"name":"国际频道","url":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb/gjtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"}
+{"name":"CCTV8K直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/8k.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"本地直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/live.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"熊猫直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/mtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"多多直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/dd.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"小苹果直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/xpg.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"星河直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/xhtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"巧记直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/qjtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"一起看直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/yiqi.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"吾爱直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/wuai.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"玉玉直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/dy.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"儿童直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/xh.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"小马直播","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/he.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"},
+{"name":"国际频道","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb/gjtv.txt&&&https://img2.baidu.com/it/u=651971012,3800349450&fm=253&fmt=auto&app=138&f=JPEG?"}
 
 ]
 

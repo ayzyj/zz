@@ -1,32 +1,33 @@
 
 
 {
-    "spider": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/spider.jar",
+    "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/spider.jar",
    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/xh.txt",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/xh.txt",
             "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+       "epg": "http://diyp1.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    
     }
     ],
     "sites": [
  
     {"key": "js豆瓣","name": "豆豆┃豆瓣少儿","type": 3,
-      "api": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/js/drpy.min.js",
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/js/drpy.js" },
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/js/drpy.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/js/drpy.js" },
     {
       "key": "直播转点播",
       "name": "📺︎┃电视┃直播",
       "type": 3,
-      "api": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/js/zbzdb.js",
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/js/zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/zb.txt"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/zb.txt"
     },
     {
       "key": "csp_LocalFile",
@@ -37,29 +38,29 @@
       "quickSearch": 0,
       "filterable": 0,
       "type_flag": 0,
-      "jar": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/Hk.jar"
+      "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/Hk.jar"
     },
     {
       "key": "MTV转点播",
       "name": "🇨🇳🍎16万MTV",
       "type": 3,
-      "api": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/js/live.js",
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/live_min.txt"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/js/live.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/live_min.txt"
     },
     {
       "key": "js_好趣",
       "name": "🇨🇳好趣直播",
       "type": 3,
-      "api": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/fty/drpy2.min.js",
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/js/好趣网.js"
+      "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/fty/drpy2.min.js",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/js/好趣网.js"
     },
     {
       "key": "广播迷",
       "name": "M📕广播┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-     "jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/gbdb.txt"
+     "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/gbdb.txt"
     },
     {
       "key": "csp_Alist1",
@@ -70,44 +71,44 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/alist.txt"
+      "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/alist.txt"
     },
     
 
 
 {"key": "csp_KungFu404","name":"🅱️阿里签到","type":3, "api": "csp_KungFu404", "searchable":1,
-"filterable": 0, "changeable":0,"jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/alisz.jar",
-          "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/token.txt" },
+"filterable": 0, "changeable":0,"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/alisz.jar",
+          "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/token.txt" },
 
 
 
  { "key": "AliYunPan","name": "🅱️云盘登录|T签到","type": 3,
             "api": "csp_AliYunPan", "searchable": 0,"filterable": 0,
-           "jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
-          "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/token.txt" },
+           "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
+          "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/token.txt" },
         {"key": "Wogg","name": "🅱️玩偶哥哥|T追剧","type": 3,
             "api": "csp_XPathAli", "searchable": 1,"quickSearch": 1, "filterable": 0,
-             "jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
-             "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/fty/玩偶哥哥.json"},
+             "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
+             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/fty/玩偶哥哥.json"},
          {"key": "csp_农民", "name": "🅱️农民影视|T追剧","type": 3, "api": "csp_XBPQ",
             "searchable": 1,"quickSearch": 1, "filterable": 1,
-            "jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
-          "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/fty/农民影视.json"},
+            "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
+          "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/fty/农民影视.json"},
          {"key": "csp_万达","name": "🅱️万达影视|T追剧","type": 3,
             "api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-             "jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/fty/万达影视.json" },
+             "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/fty/万达影视.json" },
          {"key": "csp_不卡", "name": "🅱️不卡影视|T追剧","type": 3,"api": "csp_XBPQ",
             "searchable": 1, "quickSearch": 1,"filterable": 1,
-             "jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/ty/真不卡影视.json"},
+             "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/ty/真不卡影视.json"},
         {"key": "cctv","name": "📺央视｜大全","type": 3,"api": "csp_CCTV","searchable": 0,"filterable": 0,
-            "jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/fty/央视大全.json" },
+            "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/fty/央视大全.json" },
           {"key": "央视经典","name": "📺央视｜经典","type": 3,
             "api": "csp_Bili", "searchable": 0,"quickSearch": 1,"filterable": 1,
-             "jar":"https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/fty/央视经典.json"}, 
+             "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/fty/央视经典.json"}, 
 
 
         {
@@ -118,8 +119,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/兔小贝.json",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/csp_XYQHiker_兔小贝.jar"
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/兔小贝.json",
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/csp_XYQHiker_兔小贝.jar"
         },
        
         {
@@ -130,8 +131,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/兔小贝2.json",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/csp_XYQHiker_兔小贝.jar"
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/兔小贝2.json",
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/csp_XYQHiker_兔小贝.jar"
         },
         {
             "key": "csp_XYQHiker_童趣",
@@ -141,8 +142,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/播视童趣.json",
-            "jar": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/csp_XYQHiker_兔小贝.jar"
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/播视童趣.json",
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/csp_XYQHiker_兔小贝.jar"
         },
         {
             "key": "幼儿启蒙",
@@ -152,7 +153,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/幼儿启蒙.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/幼儿启蒙.json",
             "jar": ""
         },
         {
@@ -163,7 +164,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/益智动画.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/益智动画.json",
             "jar": ""
         },
         {
@@ -174,7 +175,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/幼小衔接.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/幼小衔接.json",
             "jar": ""
         },
         {
@@ -185,7 +186,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔百科.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔百科.json",
             "jar": ""
         },
         {
@@ -196,7 +197,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔科学.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔科学.json",
             "jar": ""
         },
         {
@@ -207,7 +208,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔地理.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔地理.json",
             "jar": ""
         },
         {
@@ -218,7 +219,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔国学.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔国学.json",
             "jar": ""
         },
         {
@@ -229,7 +230,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔人文.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/小灯塔人文.json",
             "jar": ""
         },
         {
@@ -240,7 +241,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童拼音.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童拼音.json",
             "jar": ""
         },
         {
@@ -251,7 +252,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童识字.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童识字.json",
             "jar": ""
         },
         {
@@ -262,7 +263,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童英语.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童英语.json",
             "jar": ""
         },
         {
@@ -273,7 +274,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童硬笔.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童硬笔.json",
             "jar": ""
         },
         {
@@ -284,7 +285,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童思维.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童思维.json",
             "jar": ""
         },
         {
@@ -295,7 +296,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童口才.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童口才.json",
             "jar": ""
         },
         {
@@ -306,7 +307,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童编程.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童编程.json",
             "jar": ""
         },
         {
@@ -317,7 +318,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童武术.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/儿童武术.json",
             "jar": ""
         },
         {
@@ -328,7 +329,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/兴趣培养.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/兴趣培养.json",
             "jar": ""
         },
         {
@@ -339,7 +340,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/哔哩哔哩小学.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/哔哩哔哩小学.json",
             "jar": ""
         },
         {
@@ -350,7 +351,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/哔哩哔哩初中.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/哔哩哔哩初中.json",
             "jar": ""
         },
         {
@@ -361,36 +362,36 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/哔哩哔哩高中.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/哔哩哔哩高中.json",
             "jar": ""
         },
         {
             "key": "腾讯",
             "name": "🎅🏻 | 少儿频道1",
             "type": 3,
-            "api": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/drpy2.min.js",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/腾讯.js"
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/腾讯.js"
         },
         {
             "key": "芒果",
             "name": "👼🏻 | 少儿频道2",
             "type": 3,
-            "api": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/drpy2.min.js",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/忙果.js"
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/忙果.js"
         },
         {
             "key": "奇艺",
             "name": "🧚 | 少儿频道3",
             "type": 3,
-            "api": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/drpy2.min.js",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/异兽.js"
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/异兽.js"
         },
         {
             "key": "优酷",
             "name": "🧜‍| 少儿频道4",
             "type": 3,
-            "api": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/drpy2.min.js",
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/优酷.js"
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/drpy2.min.js",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/优酷.js"
         },
         {
             "key": "py_cctv_1",
@@ -400,7 +401,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/cctv.py"
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/cctv.py"
         },
         {
             "key": "ysjd",
@@ -410,7 +411,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/shaoer/央视经典.json",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/shaoer/央视经典.json",
             "jar": ""
         },
         {
