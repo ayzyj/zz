@@ -1,7 +1,7 @@
 {
 "spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/feimao.jar",
 
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+"wallpaper":"https://深色壁纸.饭.eu.org/",
   "lives": [
     {
       "name": "live",
