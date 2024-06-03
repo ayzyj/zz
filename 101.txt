@@ -1,6 +1,6 @@
 {
 "spider":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/fm.jar",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+"wallpaper":"https://深色壁纸.饭.eu.org/",
   "lives": [
     {"name": "live","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/tv.txt",
       "playerType": 1,"ua": "okhttp/3.15",
