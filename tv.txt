@@ -1845,17 +1845,14 @@ CGTN 西班牙语频道,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 
-
-
 🇨🇳｜CCTV8K,#genre#
-
 
 CCTV4K超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K超高清,http://lu1.cc/itv/php/cctv4k.php
-CCTV4k超高清,https://tv.cry33.com/ys4k.php?id=4k
-CCTV8k超高清,https://tv.cry33.com/ys4k.php?id=8k25
-CCTV8k超高清,https://tv.cry33.com/ys4k.php?id=8k
-CCTV16-4k,https://tv.cry33.com/ys4k.php?id=16-4k
+CCTV4K超高清,https://tv.cry33.com/ys4k.php?id=4k
+CCTV8K超高清,https://tv.cry33.com/ys4k.php?id=8k25
+CCTV8K超高清,https://tv.cry33.com/ys4k.php?id=8k
+CCTV16-4K,https://tv.cry33.com/ys4k.php?id=16-4k
 CCTV8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 CCTV8K 超高清,https://tv.iill.top/live/cctv8k
 CCTV4K超高清,https://tv.cry33.com/ys4k.php?id=4k
@@ -1874,7 +1871,6 @@ CCTV4K超高清,http://159.75.85.63:5679/cctv4k.php
 LOVE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?blog.ntnas.top
 NASA 4K,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
 NHK BSP4K (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.com
-
 
 
 🇨🇳｜陕西移动,#genre#
