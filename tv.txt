@@ -1844,9 +1844,6 @@ CGTN 阿拉伯语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN 西班牙语频道,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-
-
-
 🇨🇳｜CCTV8K,#genre#
 
 
@@ -1887,7 +1884,7 @@ NHK BSP4K (1080p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8
 
 
 
-黑龙江ipv6,#genre#
+🇨🇳｜黑龙ipv6,#genre#
 
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -2576,7 +2573,7 @@ CCTV2,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 湖南金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 
 
-魔百盒,#genre#
+🇨🇳｜江苏魔盒,#genre#
 
 CCTV1,rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
 CCTV2,rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv2_CR
@@ -2612,7 +2609,7 @@ CCTV4,rtsp://[2409:8087:2001:20:2800:0:df6e:eb19]:554/ott.mobaibox.com/000000400
 
 
 
-黑龙江移动,#genre#
+🇨🇳｜黑龙移动,#genre#
 
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
@@ -3052,7 +3049,7 @@ CGTN西班牙,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/inde
 中国功夫,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/index.m3u8
 
 
-湖北ipv6,#genre#
+🇨🇳｜湖北ipv6,#genre#
 
 CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
 CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
@@ -3132,7 +3129,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
 广东珠江,http://113.118.13.196:808/hls/83/index.m3u8
 
-海南ipv6,#genre#
+🇨🇳｜海南ipv6,#genre#
 
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8
 CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/index.m3u8
@@ -3386,7 +3383,7 @@ CCTV17,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000
 西藏卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?
 
 
-8M,#genre#
+🇨🇳｜高清8M,#genre#
 
 CCTV1 8M,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000018602/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000018602
 CCTV2 8M,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000001000023315/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000023315
@@ -3498,7 +3495,7 @@ NewTV精品综合4M,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019008/1.m3
 咪咕视频 8M,http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/1000000006000270003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270003
 
 
-江苏ipv6,#genre#
+🇨🇳｜江苏ipv6,#genre#
 
 CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8
@@ -3737,7 +3734,7 @@ CCTV16,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 凤凰资讯,http://113.64.145.204:8081/hls/36/index.m3u8
 凤凰香港,http://113.64.145.204:8081/hls/38/index.m3u8
 
-浙江ipv6,#genre#
+🇨🇳｜浙江ipv6,#genre#
 
 CCTV1[1920*1080],http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
 CCTV1[1920*1080],http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236371/index.m3u8
@@ -4097,7 +4094,7 @@ Y+剧场[1920*1080],http://[2409:8087:2801:20:100::010]/hwltc.tv.cdn.zj.chinamob
 
 
 
-浙江移动,#genre#
+🇨🇳｜浙江移动,#genre#
 
 CCTV1[1920*1080],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236222/index.m3u8
 CCTV1[1920*1080],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236371/index.m3u8
@@ -4425,7 +4422,7 @@ Y+剧场[1920*1080],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322
 漫游世界[1280*720],http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/index.m3u8?fmt=ts2hls
 
 
-重庆有线,#genre#
+🇨🇳｜重庆有线,#genre#
 
 CCTV1,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV2,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
