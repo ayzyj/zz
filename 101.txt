@@ -41,7 +41,7 @@
              "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/jar/spider.jar",
             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/fty/央视经典.json"}, 
 
-{"key":"玩偶","name":"FA👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"关"}},
+{"key":"玩偶","name":"FA👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"关"}},
 {"key":"米搜","name":"FB🦋米搜┃搜索","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/token.txt","from":"4k|auto"}},
 {"key":"夸搜","name":"FC🐌夸搜┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/qk.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"FD😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/token.txt","from":"4k|auto"}},
