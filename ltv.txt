@@ -19,7 +19,24 @@ CCTV6,http://49.232.131.30:99/1905.php?id=cctv6
 国外电影1905,http://49.232.131.30:99/1905.php?id=1905a
 CCTV1,http://120.192.226.35:8009/hls/501/index.m3u8
 CCTV1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+郑州新闻综合,http://live3-new.zztv.tv/xwzh/playlist.m3u8
+ 郑州新闻综合,http://live2-new.zztv.tv/xwzhpd/sd/live.m3u8
+郑州商都,http://live3-new.zztv.tv/sdpd/playlist.m3u8
+郑州商都,http://live2-new.zztv.tv/sdpd/sd/live.m3u8
+郑州文体旅游,http://live3-new.zztv.tv/wtly/playlist.m3u8
+郑州文体旅游,http://live2-new.zztv.tv/wtlypd/sd/live.m3u8
+郑州影视戏曲,http://live3-new.zztv.tv/xqpd/playlist.m3u8
+郑州影视戏曲,http://live2-new.zztv.tv/ysxqpd/sd/live.m3u8
+郑州妇女儿童,http://live3-new.zztv.tv/fnet/playlist.m3u8
+郑州妇女儿童,http://live2-new.zztv.tv/fnetpd/sd/live.m3u8
+郑州都市生活,http://live3-new.zztv.tv/dssh/playlist.m3u8
+郑州都市生活,http://live2-new.zztv.tv/dsshpd/sd/live.m3u8
+
+
 央视,#genre#
+
+CCTV1,http://120.192.226.35:8009/hls/501/index.m3u8
+CCTV1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://218.89.240.144:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
