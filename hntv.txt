@@ -1,5 +1,5 @@
 
-河南频道.#genre#
+河南频道,#genre#
 河南卫视,http://49.232.131.30:99/dxxw.php?id=hnws
 河南都市,http://49.232.131.30:99/dxxw.php?id=hnds
 河南民生,http://49.232.131.30:99/dxxw.php?id=hnms
