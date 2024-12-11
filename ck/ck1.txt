@@ -1,11 +1,10 @@
 {
     "urls": [
     
-    {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/101.txt","name":"H🔔豆瓣1"},
-       {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/102.txt","name":"H🔔豆瓣2"},
-       {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/103.txt","name":"H🔔豆瓣3"}, 
-       {"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ayzyj/zz/main/104.txt","name": "H🔔bilibili集合"},
-
+    {"url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/101.txt","name":"H🔔豆瓣1"},
+       {"url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/102.txt","name":"H🔔豆瓣2"},
+       {"url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/103.txt","name":"H🔔豆瓣3"}, 
+       {"url": "https://ghproxy.net/raw.githubusercontent.com/ayzyj/zz/main/104.txt","name": "H🔔bilibili集合"},
 
 
       {"url": "http://www.饭太硬.com/tv/","name": "🚀饭太硬线路"},                     
